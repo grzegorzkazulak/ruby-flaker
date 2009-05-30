@@ -7,10 +7,10 @@ Installation
 ------------
 
 Like any other gem you can simply install flaker by typing into console:
-	$ sudo gem install grzegorzkazulak-flaker --source=http://gems.github.com
+	$ sudo gem install grzegorzkazulak-ruby-flaker --source=http://gems.github.com
 
 To get the most recent version (master branch) use:
-	$ git cone git://github.com/grzegorzkazulak/flaker.git
+	$ git cone git://github.com/grzegorzkazulak/ruby-flaker.git
 	
 Examples
 -------
