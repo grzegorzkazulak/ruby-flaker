@@ -4,7 +4,8 @@ gem 'httparty', '0.4.3'
 require 'httparty'
 
 module Flaker
-  VERSION = '0.0.1'
+  VERSION   = '0.0.1'
+  API_PATH  = 'http://api.flaker.pl/api/'
   
   class FlakerError < StandardError
     attr_reader :date
