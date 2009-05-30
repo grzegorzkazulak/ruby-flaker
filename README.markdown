@@ -12,6 +12,10 @@ Like any other gem you can simply install flaker by typing into console:
 To get the most recent version (master branch) use:
 	$ git cone git://github.com/grzegorzkazulak/flaker.git
 	
+Examples
+-------
+You can find examples in "examples directory"
+	
 Authors
 -------
 Grzegorz Kazulak <grzegorz.kazulak@gmail.com>
