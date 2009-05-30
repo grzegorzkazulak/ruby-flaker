@@ -4,6 +4,8 @@ PostInstall.txt
 README.rdoc
 Rakefile
 lib/flaker.rb
+lib/flaker/base.rb
+lib/flaker/wrapper.rb
 script/console
 script/destroy
 script/generate
