@@ -12,8 +12,8 @@ module Flaker
       end
     end
     
-    def fetch(param)
-      self.class.get(Flaker::API_PATH + param)
+    def fetch(param, options = {})
+      Flaker::ObjectWrapper.new(self.class.get(Flaker::API_PATH + param))
     end
     
   end

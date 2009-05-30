@@ -25,3 +25,4 @@ end
 
 root = File.expand_path(File.dirname(__FILE__))
 require File.join(root, 'flaker', 'base')
+require File.join(root, 'flaker', 'wrapper')
