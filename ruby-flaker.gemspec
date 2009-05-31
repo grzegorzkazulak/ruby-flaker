@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.date = %q{2009-05-31}
   s.description = %q{API wrapper for Flaker.pl written in Ruby.}
   s.email = %q{grzegorz.kazulak@gmail.com}
-  s.files = ["Manifest.txt", "History.txt", "README.markdown", "VERSION.yml", "lib/flaker", "lib/flaker/base.rb", "lib/flaker/wrapper.rb", "spec/flaker_spec", "spec/spec_helper", "spec/spec.opts"]
+  s.files = ["Manifest.txt", "History.txt", "README.markdown", "VERSION.yml", "lib/flaker", "lib/flaker/base.rb", "lib/flaker/wrapper.rb", "spec/flaker_spec.rb", "spec/spec_helper.rb", "spec/spec.opts"]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/grzegorzkazulak/ruby-flaker}
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
